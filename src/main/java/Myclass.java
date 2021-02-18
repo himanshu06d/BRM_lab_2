@@ -7,6 +7,7 @@ public class Myclass {
 		
 		System.out.println("via automation");
 		System.out.println("my third");
+		System.out.println("my fourth");
 
 	}
 
